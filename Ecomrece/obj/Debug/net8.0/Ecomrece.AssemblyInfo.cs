@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecomrece")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d5648d78d54f4804b1da03dde69ca65c5898ff7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+232e992df050b4143095b054883cafb0ca8c87d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecomrece")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecomrece")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
